@@ -1,0 +1,33 @@
+# Environnements virtuels 
+venv/
+.venv/
+env/
+ENV/
+
+#Fichiers Python 
+__pyache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+
+# Streamlit
+.streamlit/secrets.toml
+
+# DOnnes et gros fichiers
+*.csv
+*.xlsx
+*.zip
+*.tar.gz
+*.jpg
+*.png
+*.mp4
+*.pdf
+
+# Systeme
+.DS_STORE
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
